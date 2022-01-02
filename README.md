@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**bansalshubh/bansalshubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you, I'm Shubham Choudhary
 
-Here are some ideas to get you started:
+## Who Am I? 🤠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m a passionate Competitive Programmer and Full-Stack Web Developer 🚀 
+- I'm Microsoft Imagine Cup India Finalist
+- I'm Technical Content Writer at GeeksforGeeks
+  Look at my articles - https://auth.geeksforgeeks.org/user/bansalshubhamcse21/articles
+- I'm 3 star at codechef & Solved around 200+ problems on different platforms
+
+<!-- ## My Weapons 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalshubh&theme=react)](https://github.com/bansalshubh/github-readme-stats) -->
+ 
+## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=bansalshubh&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bansalshubh&theme=react" width="48%" >
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=bansalshubh&theme=react-dark)
+<br>
+
+<p align="center">Wanna Know me More?</p>
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/shubh-2023/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>  
+
+<a href="https://www.smartr.me/public/profiles/shubham.choudhary107">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Shubham Choudhary" /></a>  
+
+</p>
