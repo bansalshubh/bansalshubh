@@ -36,5 +36,4 @@ Nice to meet you, I'm Shubham Choudhary
     padding: 4px;
     border-radius: 5px;">
 Know More About ME</a>  
-
 </p>
