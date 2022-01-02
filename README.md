@@ -30,7 +30,11 @@ Nice to meet you, I'm Shubham Choudhary
 <a href="https://www.linkedin.com/in/shubh-2023/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>  
 
-<a href="https://www.smartr.me/public/profiles/shubham.choudhary107" style="background-color:black;color:white">
+<a href="https://www.smartr.me/public/profiles/shubham.choudhary107" style="background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 5px;">
 Know More About ME</a>  
 
 </p>
