@@ -17,7 +17,7 @@ Nice to meet you, I'm Shubham Choudhary
 ## Github Status 🏆
 
 <img  src="https://github-readme-stats.vercel.app/api?username=bansalshubh&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bansalshubh&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=bansalshubh&show_icons=true&theme=dark" width="48%" >
 <br>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=bansalshubh&theme=react-dark)
