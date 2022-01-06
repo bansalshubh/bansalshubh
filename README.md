@@ -10,9 +10,9 @@ Nice to meet you, I'm Shubham Choudhary
   Look at my articles - https://auth.geeksforgeeks.org/user/bansalshubhamcse21/articles
 - I'm 3 star at codechef & Solved around 200+ problems on different platforms
 
-<!-- ## My Weapons 🌟
+## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalshubh&theme=react)](https://github.com/bansalshubh/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalshubh&theme=react)](https://github.com/bansalshubh/github-readme-stats)
  
 ## Github Status 🏆
 
